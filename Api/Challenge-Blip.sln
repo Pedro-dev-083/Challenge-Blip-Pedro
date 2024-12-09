@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge-Blip.WebApi", "Challenge-Blip.WebApi\Challenge-Blip.WebApi.csproj", "{366662AB-B026-48C7-9D89-FD680A61907F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge-Blip.WebApi.Tests", "Challenge-Blip.WebApi.Tests\Challenge-Blip.WebApi.Tests.csproj", "{D1D0189E-8C58-48EE-B090-40EB68C7E09A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{366662AB-B026-48C7-9D89-FD680A61907F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{366662AB-B026-48C7-9D89-FD680A61907F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{366662AB-B026-48C7-9D89-FD680A61907F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{366662AB-B026-48C7-9D89-FD680A61907F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D0189E-8C58-48EE-B090-40EB68C7E09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D0189E-8C58-48EE-B090-40EB68C7E09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D0189E-8C58-48EE-B090-40EB68C7E09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D0189E-8C58-48EE-B090-40EB68C7E09A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90F46B85-F290-4DFB-BA44-E647AB912F66}
+	EndGlobalSection
+EndGlobal

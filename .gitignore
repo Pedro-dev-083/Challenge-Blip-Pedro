@@ -1,0 +1,77 @@
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug/
+[Dd]ebug/
+[Dd]ist/
+
+# Uncomment if you have tasks that create project's output
+# bin/
+# obj/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer logs
+*.cab
+
+# Windows Installer database
+*.db
+
+# Windows Installer setup log
+*.vspscc
+# Windows Installer setup file
+# Uncomment the next line if you have a .NET Core SDK-based project
+# .vs/
+.vscode/
+
+# User-specific files
+.idea/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Test-related files
+# Exclude build artifacts and test output
+TestResults/
+
+# Visual Studio for Mac
+.vscode/
+
+# Rider
+.idea/
+
+# NCrunch
+_ncrunch_
+
+# Coverlet coverage files
+coverage.json
+coverage.info
+
+# .NET Core test results
+*.trx
+*.coverage
+
+# TeamCity
+.tcs/
+
+# Windows Installer packages
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer logs
+*.cab

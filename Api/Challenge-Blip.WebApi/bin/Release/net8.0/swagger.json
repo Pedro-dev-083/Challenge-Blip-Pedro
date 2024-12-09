@@ -1,0 +1,21 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Challenge-Blip.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Takenet/repositories": {
+      "get": {
+        "tags": [
+          "Takenet"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  }
+}
